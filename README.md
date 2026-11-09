@@ -1,4 +1,4 @@
-# AIOTPRO: ESP32 Crowd Counter
+# ESP32 Crowd Counter
 
 A passive crowd-density sensor. It runs on an **ESP32** and counts the Wi-Fi and Bluetooth devices nearby. A Python script on a PC reads the counts over USB serial and logs them to a CSV file.
 
